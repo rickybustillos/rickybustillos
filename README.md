@@ -6,20 +6,25 @@
   </a>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt "Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="SASS e SCSS" alt="SASS e SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" title="Bootstrap" alt "Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" title="jQuery" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Salesforce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Ricky Bustillos Avatar" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/708453244376055849/948252660409176164/d.png?width=301&height=301">
+  <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" title="Code Igniter" alt="Code Igniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
+  <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" title="Spring Boot" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain-wordmark.svg">
+  <img align="center" title="Salesforce Apex & LWC" alt="Salesforce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
+  <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">  
+  <img align="right" title="Ricky Bustillos Avatar" alt="Ricky Bustillos Avatar" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/708453244376055849/948252660409176164/d.png?width=301&height=301">
 </div>
   
   ##
