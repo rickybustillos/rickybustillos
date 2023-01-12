@@ -1,8 +1,6 @@
 <div align="center">
   
   <a href="https://github.com/rickybustillos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickybustillos&orgs=Ricky-Bustillos-Study,mealfinder,socialcommunity&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickybustillos&orgs=Ricky-Bustillos-Study,mealfinder,socialcommunity&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
